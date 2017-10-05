@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HiLo</string>
+    <string name="action_about">About</string>
+    <!-- TODO: replace with your name + userID -->
+    <string name="author" translatable="false">Ramon Tabilin (tabi0011)</string>
+</resources>
